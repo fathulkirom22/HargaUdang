@@ -1,4 +1,7 @@
 # React Native Developer Test, Jala
+<br\>
+![alt text](https://github.com/fathulkirom22/HargaUdang/blob/master/HargaUdang.png)
+<br\>
 ## Brief
 Pada tes React Native ini, anda diminta untuk mengimplementasi design UI dan API Jala yang ada.
 Anda akan membuat aplikasi yang menampilkan data harga udang di beberapa daerah berbeda.
