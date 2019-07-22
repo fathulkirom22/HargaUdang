@@ -45,4 +45,4 @@ Pada #1 Shrimp price, mampu untuk menampilkan harga terbaru dan terdekat dengan 
 <br>
 Hasil test dikumpulkan dalam bentuk apk dan dikirimkan ke **contact@jala.tech**. Dengan subject Jala **RND - {Nama Anda}**.
 <br>
-Jika ada pertanyaan mengenai tes ini, anda dapat menghubungi **syauqy@jala.tech**
+Jika ada pertanyaan mengenai tes ini, anda dapat menghubungi **syauqy@jala.tech**"# HargaUdang" 
