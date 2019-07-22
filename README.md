@@ -16,7 +16,6 @@ Masing masing card menampilkan informasi singkat mengenai,
 - Tanggal harga dibuat, contoh: 21 Oktober 2018. Serta pembuat harga contoh: Syauqy Aziz
 - Serta tombol "Harga lengkap" Yang mengarah ke halaman detail harga udang seperti di #2 Shrimp Price
 
-<br>
 ![alt text](https://photos-4.dropbox.com/t/2/AABkwMCvQZXKD3CHjkRKmjFwwDEaVt2nZGkvvPNNNOZafg/12/_/png/2048x1/5/1563267600/0/10/image.png/_/png%2520https%253A%252F%252Fpaper-attachments.dropbox.com%252Fs_9C8C5F218442185FA51922B5181B72E7D19E31ED63D06678C7E6647FD43683E3_1545398733435_image.png?preserve_transparency=1&size=2048x1&size_mode=5)
 
 ## 2 Shrimp Price
