@@ -39,11 +39,3 @@ Jika saya mengetik "Jawa Tengah" -> list harga yang muncul tidak hanya dari purw
 
 
 Tampilan design flownya dapat dilihat [di sini](https://www.loom.com/share/bd7b1e89bc134b23a1e3b67f4e8f865b)
-
-## Poin tambahan *optional
-
-Pada #1 Shrimp price, mampu untuk menampilkan harga terbaru dan terdekat dengan lokasi pencari harga (menggunakan geo-location) pada satu buah card di posisi sebelum list harga udang.
-
-Hasil test dikumpulkan dalam bentuk apk dan dikirimkan ke **contact@jala.tech**. Dengan subject Jala **RND - {Nama Anda}**.
-
-Jika ada pertanyaan mengenai tes ini, anda dapat menghubungi **syauqy@jala.tech**"# HargaUdang" 
