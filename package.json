@@ -17,7 +17,7 @@
     "react-navigation": "^3.11.0",
     "react-redux": "^7.1.0",
     "redux": "^4.0.1",
-    "victory-native": "^32.0.2"
+    "victory-native": "^36.6.8"
   },
   "devDependencies": {
     "@babel/core": "7.5.4",
